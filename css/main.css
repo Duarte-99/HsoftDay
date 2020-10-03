@@ -1,0 +1,95 @@
+/* --------------------- *\
+     HEADER
+\* --------------------- */
+.text-suscribite {
+    color: #97c93e !important;
+}
+
+.btn-mas{
+    background-color: #97c93e;
+    color: white !important;
+}
+.btn-mas:hover{
+    background-color: #82ad36;
+}
+.menu-navegacion img{
+    width: 40px;
+}
+
+.carusel-images .carousel-inner img {
+    max-height: 60vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+#carouselExampleCaptions {
+    position: relative;
+}
+
+#carouselExampleCaptions .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#carouselExampleCaptions .overlay .container,
+#carouselExampleCaptions .overlay .row{
+    height: 100%;
+}
+/* --------------------- *\
+     CARDS
+\* --------------------- */
+
+.badges{
+    text-align: right;
+}
+
+.nosotros-banner .img-banner{
+    background-image: url("../assets/img/Banner.jpg");
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    object-fit: cover;
+
+}
+
+.texto-info{
+    background-color: #343a40;
+    color: white;
+}
+.texto-info-subtitulo {
+    font-size: 1.3rem;
+    line-height: 2rem;
+}
+
+
+/* NOSOTROS */
+.texto-post h1 {
+    top: 50px;
+}
+    /* --------------------- *\
+          PIE DE PAGINA
+    \* --------------------- */
+
+#footer {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+}
+
+#footer a {
+    color: white;
+}
+
+#footer img .logo {
+    text-align: center;
+}
+
+.navbar .navbar-brand {
+    display: flex;
+}
+
+/* Clases extras*/
+
